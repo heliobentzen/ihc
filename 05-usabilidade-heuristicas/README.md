@@ -148,7 +148,7 @@ Jakob Nielsen e Rolf Molich desenvolveram 10 princípios gerais para avaliação
 **Exemplos corretos:**
 - ✅ Atalhos de teclado (Ctrl+C, Ctrl+V)
 - ✅ Acesso rápido a ações recentes
-- ✅ Modo avançado para usuários poder
+- ✅ Modo avançado para usuários poderosos
 
 **Violações comuns:**
 - ❌ Sem atalho de teclado para ações frequentes

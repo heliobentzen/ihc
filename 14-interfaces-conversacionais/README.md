@@ -338,7 +338,7 @@ Avalie a acessibilidade de um chatbot real:
 - [ ] Há no máximo 3 opções em quick replies?
 - [ ] O bot lida com mensagens ambíguas graciosamente?
 - [ ] Há sempre um caminho para falar com humano?
-- [ ] O bot se apresenta como IA (não fingeser humano)?
+- [ ] O bot se apresenta como IA (não finge ser humano)?
 
 **Conteúdo:**
 - [ ] As respostas são concisas e no tom certo?
